@@ -1,1 +1,1 @@
-[resume.md](readme.md)
+resume.md
