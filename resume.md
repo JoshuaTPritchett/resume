@@ -9,13 +9,13 @@ I am a software engineer and product manager [@mitre](https://www.mitre.org/) ba
 
 #### Major projects
 
-##### Marauder -- [Kessel Run (KR)](https://kesselrun.af.mil/)
+##### Marauder - [Kessel Run (KR)](https://kesselrun.af.mil/)
 
 ##### Security Engineering - [Kessel Run (KR)](https://kesselrun.af.mil/)
 
 ##### Energizer - [Enterprise Ground Services (EGS)](https://www.intelsatgeneral.com/blog/how-to-improve-enterprise-ground-services-for-space/)
 
-##### Toolchain in a Box - Air Operation Weapon System (AOC-WS)
+##### Toolchain in a Box - [Air Operations Center Weapon System (AOC WS)](http://www.northropgrumman.com/Capabilities/AOCWS/Pages/default.aspx)
 
 ## Education
 
