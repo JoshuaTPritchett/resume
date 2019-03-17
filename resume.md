@@ -19,7 +19,7 @@ I am a software engineer and product manager [@mitre](https://www.mitre.org/) ba
 
 ## Education
 
-### M.S. in Computer Science, Worcester Polytechnic Institue
+### M.S. in Computer Science, Worcester Polytechnic Institute
 
 *2015 - 2017*
 
