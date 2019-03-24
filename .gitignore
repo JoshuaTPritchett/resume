@@ -1,5 +1,8 @@
 resume.pdf
 cover.md
 cover.pdf
+accomplishments_*.md
+accomplishments_*.pdf
+.DS_Store
 *.swp
 *.swo
