@@ -8,14 +8,14 @@ I am a software engineer [@MITRE][MITRE] turned product manager for [@KesselRun]
 
 *September 2018 - Present*
 
-### Responsibilities
+#### Responsibilities
 
 * Articulate product vision and strategy
 * Establish an outcome-oriented product roadmap
 * Establish and track aginst measurable objectives
 * Continually de-risk product direction
 * Prioritize features
-* Manage the prodcut backlog
+* Manage the product backlog
 * Decide when to ship software
 * Communicate effectively
 
@@ -52,10 +52,10 @@ Tech: JavaScript, Java, Python, Ansible, C, PostgreSQL, MySQL, React, OpenShift,
 
 ## Contact
 
-* To get a deeper look into me, view my [website][website].
-* Email me at: [jpritchett757@gmail.com][email]
-* Checkout my [Github profile][github] to view my project contributions
+* To get a deeper look into me, view my [website][website]
+* Checkout my [Github profile][github] to view projects I work on and my community contributions
 * Here are details about programs I've worked with: [KR][KR], [EGS][EGS], and [AOC WS][AOC WS]
+* Contact me at [jpritchett757@gmail.com][email]
 
 [comment]: <> (References)
 
