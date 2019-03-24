@@ -55,7 +55,7 @@ Tech: JavaScript, Java, Python, Ansible, C, PostgreSQL, MySQL, React, OpenShift,
 * To get a deeper look into me, view my [website][website]
 * Checkout my [Github profile][github] to view projects I work on and my community contributions
 * Here are details about programs I've worked with: [KR][KR], [EGS][EGS], and [AOC WS][AOC WS]
-* Contact me at [jpritchett757@gmail.com][email]
+* Email me at [jpritchett757@gmail.com][email]
 
 [MITRE]: https://www.mitre.org/
 [KR]: https://kesselrun.af.mil/
