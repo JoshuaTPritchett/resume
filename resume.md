@@ -57,8 +57,6 @@ Tech: JavaScript, Java, Python, Ansible, C, PostgreSQL, MySQL, React, OpenShift,
 * Here are details about programs I've worked with: [KR][KR], [EGS][EGS], and [AOC WS][AOC WS]
 * Contact me at [jpritchett757@gmail.com][email]
 
-[comment]: <> (References)
-
 [MITRE]: https://www.mitre.org/
 [KR]: https://kesselrun.af.mil/
 [EGS]: https://www.intelsatgeneral.com/blog/how-to-improve-enterprise-ground-services-for-space/
