@@ -52,10 +52,10 @@ Tech: JavaScript, Java, Python, Ansible, C, PostgreSQL, MySQL, React, OpenShift,
 
 ## Contact
 
-* To get a deeper look, view my [website][website].
+* To get a deeper look into me, view my [website][website].
 * Email me at: [jpritchett757@gmail.com][email]
-* Checkout projects that I work on and contribute to on my [Github profile][github]
-* I have worked on exciting programs check them out here: [KR][KR], [EGS][EGS], and [AOC WS][AOC WS]
+* Checkout my [Github profile][github] to view my project contributions
+* Here are details about programs I've worked with: [KR][KR], [EGS][EGS], and [AOC WS][AOC WS]
 
 [comment]: <> (References)
 
