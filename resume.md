@@ -21,8 +21,8 @@ I am a software engineer [@MITRE][MITRE] turned product manager for [@KesselRun]
 
 #### Major Projects
 
-###### Marauder, KesselRun
-###### Securtiy Engineering, Kessel Run
+##### Marauder, KesselRun
+##### Securtiy Engineering, Kessel Run
 
 ### Software Engineer at MITRE
 
@@ -32,9 +32,9 @@ Tech: JavaScript, Java, Python, Ansible, C, PostgreSQL, MySQL, React, OpenShift,
 
 #### Major projects
 
-###### Security Engineering, Kessel Run (KR)
-###### Energizer, Enterprise Ground Services (EGS)
-###### Toolchain in a Box, Air Operations Center Weapon System (AOC WS)
+##### Security Engineering, Kessel Run (KR)
+##### Energizer, Enterprise Ground Services (EGS)
+##### Toolchain in a Box, Air Operations Center Weapon System (AOC WS)
 
 ## Education
 
