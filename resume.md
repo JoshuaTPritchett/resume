@@ -38,7 +38,7 @@ Tech: JavaScript, Java, Python, Ansible, C, PostgreSQL, MySQL, React, OpenShift,
 
 ## Education
 
-### M.S. in Computer Science, Worcester Polytechnic Institue
+### M.S. in Computer Science, Worcester Polytechnic Institute
 
 *2015 -- 2017*
 
