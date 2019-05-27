@@ -35,7 +35,7 @@ A software engineer [@MITRE][MITRE] turned lean product manager for [@KesselRun]
 
 ##### Energizer, Enterprise Ground Services (EGS)
 
-* Lead the Platform Engineering team which developed disconnected infrastructure used by 10 product teams saving an estimated 1.2M
+* Lead a platform engineering team which developed rapdily deployable disconnected infrastructure used by 10 product teams that saving the program an estimated 1.2M
 * The platform was built, tested, deployed, and used within 90 days of inception 
 * Ramped up both MITRE and contractors to be able to maintain and practice Extreme Programming (XP) practices
 
