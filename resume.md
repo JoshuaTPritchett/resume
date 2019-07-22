@@ -1,80 +1,47 @@
-# Joshua T. Pritchett 
-
-A software engineer [@MITRE][MITRE] turned lean product manager for [@KesselRun][KR] out of Boston, MA. 
-
-## Experience
-
-### Product Manager at Kessel Run
-
-*August 2018 - Present*
+# Joshua T. Pritchett
+[Website](https://joshuatpritchett.github.io/) | [Github](https://github.com/JoshuaTPritchett) | [Email](jpritchett757@gmail.com) | 757-304-7192 
 
 
-##### Marauder 
-
-*February 2019 - Present*
-
-* Articulated product vision, strategy, and established a product roadmap to track against measurable objectives
-* Managed the product backlog prioritizing features and decided when to ship software that our warfighters love
-* Identified assumptions and continually de-risked production direction with lean experiments
-* Engaged with stakeholders to scale operational use from 1 Air Operations Center and ~300 users to 6 Air Operations Centers and ~3100 users
-* Reduced product workflow time by 10%
-
-##### Security Engineering
-
-*November 2018 - February 2019*
-
-* Lead a team responsible for improving the Continuous Authorization to Operate (C-ATO) for Kessel Run
-* Grew the Security Engineering team from 1 to 8 members; allocating four additional resources from MITRE and  hired three security engineers
-* Set Objectives and Key Results (OKRs) which lead to reducing average security assessment times by 25% and the number of security vulnerabilities found within products by 50%  
-
-### Software Engineer at MITRE
-
-*July 2017 - November 2018*
-
-#### Major projects
-
-##### Energizer, Enterprise Ground Services (EGS)
-
-* Lead a platform engineering team which developed rapidly deployable disconnected infrastructure used by 10 product teams that saving the program an estimated 1.2M
-* The platform was built, tested, deployed, and used within 90 days of inception 
-* Ramped up both MITRE and contractors to be able to maintain and practice Extreme Programming (XP) practices
-
-##### Toolchain in a Box, Air Operations Center Weapon System (AOC WS)
-
-* Developed one of the first Air Force (AF) DoD open source projects at MITRE that allowed DoD partners to automate standing up a Continuous Integration and Delivery/Deployment (CI/CD) pipeline from scratch
-* Successfully used by 4 DoD partners (USSOCOM, EGS, AOC-WS, and JCC2) reducing deployment lead times by 30%  
-
-## Skills
+## EDUCATION
  
-Tech: JavaScript, Java, Python, Ansible, C, PostgreSQL, MySQL, React, OpenShift, Concourse, Jenkins, Docker, Bash, 
+#### Worcester Polytechnic Institute (WPI)
+M.S. in Computer Science (2015 - 2017) 
+ 
+#### Keene State College (KSC)
+B.S. in Computer Science (2012 - 2015)
+ 
+## EXPERIENCE
+ 
+#### The MITRE Corporation
 
-Product Management: Lean Product Management, User Centered Design (UCD), Minimum Viable Product, Releasing, Outcome Oriented Roadmap
+*Product Manager, Kessel Run (November 2018 - Present)*
+*Software Engineer (July 2017 - November 2018)*
+* Grew a mission reporting tools operational use from 1 Air Operations Center and ~400 users to 6 Air Operations Centers and ~4200 users over Q2 2019. Achieving the first centralized and globally accessible mission reporting tool in the Air Force
+* Launched a security engineering team, hiring and training 6security engineers which reduced average security assessment times by 75% and the number of security vulnerabilities found within products by 50%
+* Led a software engineering team of 8, which developed a rapidly deployable disconnected PaaS and IaaS environment used by 10 product teams saving ~$1.2M
+* Launched one of the first Department of Defense (DoD)/US Air Force (USAF) open source DevSecOps projects. which lead to increasing average deployments by 40%, reducing deployment lead times by 30% and is used by 3 organizations (USSOCOM, EGS, and JCC2) 
 
-## Education
 
-### M.S. in Computer Science, Worcester Polytechnic Institute
+#### Worcester Polytechnic Institute
 
-*2015 -- 2017*
+*Teaching & Research Assistant (August 2015 - May 2017)*
+* Taught courses for Advanced Program Design, Systems Programming, Operating Systems, Networking, and Software Security Engineering
+* Built a software-defined networking system that provided enterprise security to residential devices earning Dr. Craig Shue a $507,600 National Science Foundation CAREER award
+ 
+#### Wayfair
 
-* GPA: 3.5/4.0
+*Software Engineering Intern (June 2016 - August 2016)*
+* Developed a system that reduced external partners (Walmart and Target) item listing errors by 15% week over week
+ 
+## AWARDS
+* **Catalyst Award (MITRE):** 1 of 2 of the first employees to receive this award at out of 300 in the department for successfully starting new customer work
+* **Graduate Assistantship (WPI):** Awarded as the only masters student in a lab of 5 PhD candidates to teach and advance research in computer security
+* **Ronald A. Tourgee Computer Science Recognition Award (KSC):** Given to 1 student out of ~600 each graduating year for professional promise and excellent scholastic achievement in the computer sciences
 
-### B.S. in Computer Science, Keene State College
 
-*2012 -- 2015*
+#### ADDITIONAL INFORMATION
 
-* GPA: 3.95/4.0
+* **Languages:** Python, Ansible, Bash, JavaScript, Java, C
+* **Technologies:** OpenShift, Kubernetes, Ansible, VMWare, Concourse, Jenkins, React
+* **Product:** Lean Principles, User-centered Design (UCD), Extreme Programming (XP)
 
-## Contact
-
-* Visit my [website][website]
-* I host my own projects and contribute to the software community on [Github][github]
-* Here are details about programs I've worked with: [KR][KR], [EGS][EGS], and [AOC WS][AOC WS]
-* Email me at [jpritchett757@gmail.com][email]
-
-[MITRE]: https://www.mitre.org/
-[KR]: https://kesselrun.af.mil/
-[EGS]: https://www.intelsatgeneral.com/blog/how-to-improve-enterprise-ground-services-for-space/
-[AOC WS]: http://www.northropgrumman.com/Capabilities/AOCWS/Pages/default.aspx 
-[website]: https://joshuatpritchett.github.io/
-[email]: jpritchett757@gmail.com
-[github]: https://github.com/JoshuaTPritchett
