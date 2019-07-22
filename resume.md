@@ -1,5 +1,5 @@
 # Joshua T. Pritchett
-[Website](https://joshuatpritchett.github.io/) | [Github](https://github.com/JoshuaTPritchett) | [Email](Send to: jpritchett757@gmail.com) | 757-304-7192 
+[Website](https://joshuatpritchett.github.io/) | [Github](https://github.com/JoshuaTPritchett) | jpritchett757@gmail.com | 757-304-7192 
 
 
 ## EDUCATION
