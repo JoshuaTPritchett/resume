@@ -39,7 +39,7 @@ B.S. in Computer Science (2012 - 2015)
 * **Ronald A. Tourgee Computer Science Recognition Award (KSC):** Given to 1 student out of ~600 each graduating year for professional promise and excellent scholastic achievement in the computer sciences
 
 
-#### ADDITIONAL INFORMATION
+## ADDITIONAL INFORMATION
 
 * **Languages:** Python, Ansible, Bash, JavaScript, Java, C
 * **Technologies:** OpenShift, Kubernetes, Ansible, VMWare, Concourse, Jenkins, React
