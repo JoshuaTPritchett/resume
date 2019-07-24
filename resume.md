@@ -35,7 +35,7 @@ Teaching & Research Assistant (August 2015 - May 2017)
 
 **Wayfair**
 
-Software Engineering Intern (June 2016 - August 2016)*
+Software Engineering Intern (June 2016 - August 2016)
 
 * Developed a system that reduced external partners (Walmart and Target) item listing errors by 15% week over week.
  
@@ -43,7 +43,7 @@ Software Engineering Intern (June 2016 - August 2016)*
 
 * **Catalyst Award (MITRE):** Recognized out of 300 people in the department for successfully starting new customer work.
 * **Graduate Assistantship (WPI):** The only master's student awarded in a lab of five Ph.D. candidates, to teach and advance research in computer security.
-* *Ronald A. Tourgee Computer Science Recognition Award (KSC):** One student receives this award each graduating year from a class of ~1000, for professional and excellent academic achievement in computer science.
+* **Ronald A. Tourgee Computer Science Recognition Award (KSC):** One student receives this award each graduating year from a class of ~1000, for excellent professional and academic achievement in computer science.
 
 
 
